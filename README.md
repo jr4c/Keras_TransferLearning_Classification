@@ -1,8 +1,6 @@
 # Transfer learning with Keras and Tensorflow
 
-**Problem:** is the image a Motherboard?
-
-For this problem we use InceptionV3.
+**Problem:** In this model the objective is to use transfer learning to classify a image into a Motherboard or Something else 
 
 to use the model:
 
